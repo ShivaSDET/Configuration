@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-10T12:20:28 GMT-05:00" name="RegressionSuite" finished-at="2023-09-10T12:20:32 GMT-05:00" duration-ms="4321">
+    <groups>
+    </groups>
+    <test started-at="2023-09-10T12:20:28 GMT-05:00" name="Regression" finished-at="2023-09-10T12:20:32 GMT-05:00" duration-ms="4321">
+      <class name="Configuration.Tools.Practice">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Configuration.Tools.Practice@2cf3d63b]" started-at="2023-09-10T12:20:28 GMT-05:00" name="setup" finished-at="2023-09-10T12:20:31 GMT-05:00" duration-ms="2624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkTheUrl()[pri:0, instance:Configuration.Tools.Practice@2cf3d63b]" started-at="2023-09-10T12:20:31 GMT-05:00" name="checkTheUrl" finished-at="2023-09-10T12:20:32 GMT-05:00" duration-ms="1373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheUrl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Configuration.Tools.Practice@2cf3d63b]" started-at="2023-09-10T12:20:32 GMT-05:00" name="tearDown" finished-at="2023-09-10T12:20:32 GMT-05:00" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Configuration.Tools.Practice -->
+    </test> <!-- Regression -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

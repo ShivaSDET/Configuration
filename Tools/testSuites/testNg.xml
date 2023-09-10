@@ -1,0 +1,7 @@
+<suite name="RegressionSuite">
+	<test name="Regression">
+		<classes>
+			<class name="Configuration.Tools.Practice"/>
+		</classes>
+	</test>
+</suite>
